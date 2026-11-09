@@ -1,0 +1,51 @@
+id_producto,nombre_producto,sku,categoria,subcategoria,talla,color,costo,precio_venta
+P001,Sandalia Playa,SPL001,Sandalias,Casual,38,Azul,30.00,59.90
+P002,Zapato Formal,ZAF005,Zapatos,Formal,42,Negro,100.00,199.90
+P003,Zapatilla Running,ZAR010,Zapatillas,Deportivo,40,Blanco,75.00,149.90
+P004,Ballerina Básica,BAB011,Ballerinas,Casual,36,Rojo,50.00,99.90
+P005,Botín Piel,BTP015,Botines,Invierno,37,Marrón,65.00,129.90
+P006,Mocasín Cuero,MCC020,Mocasines,Formal,43,Marrón,110.00,219.90
+P007,Sandalia Tacón,SST022,Sandalias,Elegante,39,Negro,45.00,89.90
+P008,Zapatilla Urbana,ZAU025,Zapatillas,Casual,41,Gris,60.00,119.90
+P009,Alpargata Lisa,ALL030,Alpargatas,Verano,35,Beige,40.00,79.90
+P010,Bota Trekking,BTT035,Botas,Deportivo,44,Verde,130.00,259.90
+P011,Oxfort Cuero,OXC036,Zapatos,Formal,41,Negro,95.00,189.90
+P012,Sneaker Casual,SNC037,Zapatillas,Casual,40,Azul,55.00,109.90
+P013,Bota Larga Mujer,BLM038,Botas,Invierno,38,Negro,120.00,239.90
+P014,Chinela Hogar,CHH039,Chinelos,Hogar,39,Rosado,20.00,39.90
+P015,Sandalia Verano,SAV040,Sandalias,Verano,37,Amarillo,25.00,49.90
+P016,Zapatilla Trail,ZTR041,Zapatillas,Deportivo,42,Negro,85.00,169.90
+P017,Mocasín Casual,MCZ042,Mocasines,Casual,43,Azul,70.00,139.90
+P018,Ballerina Elegante,BAE043,Ballerinas,Elegante,36,Beige,60.00,119.90
+P019,Zapato Ejecutivo,ZEX044,Zapatos,Formal,44,Marrón,130.00,259.90
+P020,Zapatilla Skate,ZSK045,Zapatillas,Urbano,41,Negro,65.00,129.90
+P021,Bota Militar,BML046,Botas,Outdoor,43,Verde,150.00,299.90
+P022,Sandalia Plataforma,SPL047,Sandalias,Fiesta,38,Dorado,50.00,99.90
+P023,Zapatilla Retro,ZRT048,Zapatillas,Casual,42,Blanco,70.00,139.90
+P024,Zapato Tacón Alto,ZTA049,Zapatos,Elegante,37,Negro,85.00,169.90
+P025,Zapatilla Outdoor,ZOD050,Zapatillas,Outdoor,43,Gris,95.00,189.90
+P026,Bota Corta Mujer,BCM026,Botas,Invierno,37,Negro,90.00,179.90
+P027,Zapatilla Fitness,ZFT027,Zapatillas,Deportivo,40,Rojo,65.00,129.90
+P028,Sandalia Cuero,SDC028,Sandalias,Casual,38,Marrón,45.00,89.90
+P029,Loafer Urbano,LFU029,Zapatos,Casual,42,Azul,70.00,139.90
+P030,Chinela Antideslizante,CAD030,Chinelos,Hogar,40,Gris,18.00,35.90
+P031,Zapatilla Textil,ZTX031,Zapatillas,Casual,41,Beige,55.00,109.90
+P032,Oxford Premium,OXF032,Zapatos,Formal,43,Negro,120.00,239.90
+P033,Bota Montaña,BTM033,Botas,Outdoor,44,Negro,140.00,279.90
+P034,Zapatilla Tenis,ZTN034,Zapatillas,Deportivo,41,Blanco,75.00,149.90
+P035,Sandalia Dama Elegante,SDE035,Sandalias,Elegante,36,Negro,55.00,109.90
+P036,Mocasín Ligero,MCL036,Mocasines,Casual,42,Beige,60.00,119.90
+P037,Zapatilla Suela XL,ZSX037,Zapatillas,Urbano,40,Negro,65.00,129.90
+P038,Bota Cuero Hombre,BCH038,Botas,Formal,43,Marrón,130.00,259.90
+P039,Zapatilla Niño,ZNI039,Zapatillas,Infantil,33,Azul,40.00,79.90
+P040,Sandalia Niño,SNN040,Sandalias,Infantil,30,Rojo,20.00,39.90
+P041,Zapatilla Trekking Mujer,ZTM041,Zapatillas,Outdoor,38,Violeta,85.00,169.90
+P042,Zapato Fiesta,ZFS042,Zapatos,Elegante,37,Dorado,75.00,149.90
+P043,Zapatilla Amortiguada,ZAM043,Zapatillas,Deportivo,42,Negro,95.00,189.90
+P044,Bota Trabajo,BTR044,Botas,Industrial,44,Marrón,140.00,279.90
+P045,Zapatilla Velcro,ZVL045,Zapatillas,Infantil,31,Blanco,30.00,59.90
+P046,Ballerina Kids,BLK046,Ballerinas,Infantil,29,Rosa,25.00,49.90
+P047,Mocasín Ejecutivo,MOE047,Zapatos,Formal,42,Negro,115.00,229.90
+P048,Zapatilla Foam,ZFM048,Zapatillas,Casual,40,Gris,55.00,109.90
+P049,Sandalia Sport,SSP049,Sandalias,Deportivo,39,Azul,35.00,69.90
+P050,Zapatilla Eco,ZEC050,Zapatillas,Casual,41,Verde,60.00,119.90
